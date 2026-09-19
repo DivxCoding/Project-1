@@ -1,2 +1,2 @@
 # Project-1
-My first coding project.
+My first programming project.
